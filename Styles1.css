@@ -1,0 +1,167 @@
+html{
+  width: 1300px;
+  height: 1270px;
+}
+body{
+width:1300px;
+height:800px;
+background: url(ph.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  margin: 0px;
+}	
+.header {
+   background-color:rgba(0,0,0,0.9) ;
+   height: 180px;
+   width: 1300px;
+   padding: 40px 40px;
+   }
+.header img{
+  width:60px;
+  float:left;
+  padding-right: 5px;
+   
+}
+.header-logo {
+  float: left;
+  font-size: 30px ;
+  color:#ff0000 ;
+  padding: 20px auto;
+  font-family: 'Wallpoet', cursive;
+
+  }
+  
+  
+.header-logo p{
+  text-align:left; 
+  font-family: 'Major Mono Display', monospace;
+
+}
+ 
+.header-list li {
+
+  float: right;
+  color: #30ce30;
+   font-family: 'Fredoka One', cursive;
+  padding: 33px 20px;
+
+}
+.header-list a{
+  color: #30ce30;
+  float: right;
+  font-family: ;
+}
+li{
+  list-style:none;
+  font-family:" Britannic";
+}
+.main {
+
+    height:500px;
+  }
+
+.copy-container h1 {
+  text-decoration: underline;
+  font-family: 'Major Mono Display', monospace;
+  font-size: 30px;
+  color:black;
+  padding-bottom: 3px;
+  margin: 0px;
+  
+}
+
+.copy-container p {
+  color: black;
+  background-color: rgba(0,0,0,0.3);
+  border:2px groove #138313;
+  width:800px;
+  height: 178px;
+  font-family: 'M PLUS 1p', sans-serif;
+  font-size: 30px;
+  padding-top:0;
+  margin:18px 0px 18px 0px;
+	
+  padding-left:4px;
+} 
+.go{
+  width:800px;
+  height: 178px;
+}
+.copy-container span {
+  color: red;
+}
+
+.contents {
+  height: 440px;
+
+ 
+  color:white;
+}
+
+.section-title {
+  border:2px solid  #138313;
+  margin: 18px 0px 18px 0px;
+
+  font-size:26px;
+  font-family: 'Contrail One', cursive;
+  color: black;
+  padding: 5px 5px;
+  padding-left:8px;
+  background-color: rgba(0,0,0,0.3);
+  width:800px;
+  height: 178px;
+
+}
+.section-title  >p{
+    font-family: 'Raleway', sans-serif;
+    margin:0px;
+}
+.section-title span{
+	color:green;
+}
+
+.contents-item {
+	float: left;
+
+  color:black;
+	padding:20px;
+}
+
+.contents-item p {
+	font-family: 'Keania One', cursive;
+
+ 
+	font-size: 24px;
+  color:black;
+	margin-top: 10px;
+}
+
+ .footer {
+  background-color:rgba(0,0,0,0.9);
+  height: 180px;
+  width:1300px;
+  color: #fff;
+  padding:50px 40px;
+  
+}
+.footer-logo {
+width:300px;
+height:80px
+  text-align: left;
+  color: #30ce30;
+  font-family: 'Wallpoet', cursive;
+  font-size: 32px;
+}
+
+.footer-logo >p {
+    font-family: 'Major Mono Display', monospace;
+  padding: 0px 0px 0px 40px;
+  width:360px;
+height:30px
+}
+
+
+
